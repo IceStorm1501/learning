@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello, Git!");
+﻿Console.WriteLine("Hello from Developer 2!");
 Console.WriteLine("I am learning version control.");
 
 int a = 10;
